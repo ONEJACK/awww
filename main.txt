@@ -25,5 +25,6 @@
         <li><a href="https://corona.temanggungkab.go.id/lk21-drakor/"><strong>nonton drakor</strong></a></li>
         <li><a href="https://e-arsipbkd.hulusungaitengahkab.go.id/buku-mimpi/"><strong>buku mimpi</strong></a></li>
         <li><a href="https://repository.poltekkes-banjarmasin.ac.id/images/tafsir-mimpi/"><strong>tafsir mimpi</strong></a></li>
+        <li><a href="https://kkn.umj.ac.id/upload/anoboy/"><strong>nonton anime</strong></a></li>
     </ul>
 </div>  
