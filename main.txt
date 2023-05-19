@@ -18,7 +18,6 @@
         <li><a href="https://rekompah.disnak.jatimprov.go.id/logistik/"><strong>slot 5000</strong></a></li>
         <li><a href="https://disperkim.asahankab.go.id/slot-demo/"><strong>slot demo</strong></a></li>
         <li><a href="https://admpem.muaraenimkab.go.id/vendor%20bola/"><strong>judi bola</strong></a></li>
-        <li><a href="https://dinkes.butonkab.go.id/dana/"><strong>slot dana</strong></a></li>
         <li><a href="https://aset.bpkad.samarindakota.go.id/prediksi-angka-jitu/"><strong>prediksi angka jitu</strong></a></li>
         <li><a href="https://ppiddindukcapil.temanggungkab.go.id/buku-mimpi/"><strong>buku tafsir mimpi</strong></a></li>
         <li><a href="https://corona.temanggungkab.go.id/lk21-drakor/"><strong>nonton drakor</strong></a></li>
@@ -30,5 +29,10 @@
         <li><a href="https://agroteknologi-fp.upp.ac.id/data-sgp/"><strong>live draw sgp</strong></a></li>
         <li><a href="https://dinkes.temanggungkab.go.id/slot777-slot5000/"><strong>slot pulsa</strong></a></li>
         <li><a href="https://temanggungkab.go.id/-/slot-gacor/"><strong>slot gacor gampang menang</strong></a></li>
+        <li><a href="https://agribisnis-fp.upp.ac.id/prediksi-togel-hk/"><strong>prediksi hk</strong></a></li>
+        <li><a href="https://pkmciherang.cianjurkab.go.id/tafsir-mimpi/"><strong>tafsir mimpi</strong></a></li>
+        <li><a href="https://dpupr.temanggungkab.go.id/ramalan-bintang-zodiak/"><strong>ramalan zodiak</strong></a></li>
+        <li><a href="https://kominfo.temanggungkab.go.id/mimpi-wanita-cantik/"><strong>arti mimpi</strong></a></li>
+        <li><a href="https://bpbd.temanggungkab.go.id/prediksi-livescore/"><strong>prediksi livescore</strong></a></li>
     </ul>
 </div>  
