@@ -18,7 +18,6 @@
         <li><a href="https://rekompah.disnak.jatimprov.go.id/logistik/"><strong>slot 5000</strong></a></li>
         <li><a href="https://disperkim.asahankab.go.id/slot-demo/"><strong>slot demo</strong></a></li>
         <li><a href="https://admpem.muaraenimkab.go.id/vendor%20bola/"><strong>judi bola</strong></a></li>
-        <li><a href="https://aset.bpkad.samarindakota.go.id/prediksi-angka-jitu/"><strong>prediksi angka jitu</strong></a></li>
         <li><a href="https://ppiddindukcapil.temanggungkab.go.id/buku-mimpi/"><strong>buku tafsir mimpi</strong></a></li>
         <li><a href="https://corona.temanggungkab.go.id/lk21-drakor/"><strong>nonton drakor</strong></a></li>
         <li><a href="https://e-arsipbkd.hulusungaitengahkab.go.id/buku-mimpi/"><strong>buku mimpi</strong></a></li>
@@ -34,5 +33,7 @@
         <li><a href="https://dpupr.temanggungkab.go.id/ramalan-bintang-zodiak/"><strong>ramalan zodiak</strong></a></li>
         <li><a href="https://kominfo.temanggungkab.go.id/mimpi-wanita-cantik/"><strong>arti mimpi</strong></a></li>
         <li><a href="https://bpbd.temanggungkab.go.id/prediksi-livescore/"><strong>prediksi livescore</strong></a></li>
+        <li><a href="https://tekniksipil-ft.upp.ac.id/macau-pools/"><strong>macau pools</strong></a></li>
+        <li><a href="https://e-arsipbkd.hulusungaitengahkab.go.id/slot-garansi-kekalahan/"><strong>slot garansi kekalahan</strong></a></li>
     </ul>
 </div>  
