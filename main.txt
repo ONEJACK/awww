@@ -1,9 +1,7 @@
 <div style="display: none;">
-    <li><a href="http://eprologpal.bnpb.go.id/uploads/-/slot-demo/">slot demo</a></li>
+    <li><a href="https://slotdemo.dprd.batangkab.go.id/">slot demo</a></li>
     <li><a href="https://dinsos.acehselatankab.go.id/vendors/slot-gacor/">slot gacor</a></li>
     <li><a href="https://tekniksipil-ft.upp.ac.id/macau-pools/">toto macau</a></li>
-    <li><a href="https://tekniksipil-ft.upp.ac.id/hongkong-pools/">toto hk</a></li>
-    <li><a href="https://jte.polinema.ac.id/new2/wp-includes/slot-thailand/">slot thailand</a></li>
     <li><a href="https://is.ittelkom-sby.ac.id/wp-includes/js/daftar-akun-pro-slot-thailand/">akun pro thailand</a></li>
     <li><a href="https://www.uteycv.esiaz.ipn.mx/assets/slot-gacor/">slot gacor</a></li>
     <li><a href="https://teknikmesin-ft.upp.ac.id/slot-bonus-thailand/">slot thailand</a></li>
@@ -11,12 +9,6 @@
     <li><a href="https://veteransmosaic.frontier.com/">slot gacor</a></li>
     <li><a href="https://ccpphd.sulbarprov.go.id/-/slot-gacor/">slot gacor</a></li>
     <li><a href="https://ppidlama.klatenkab.go.id/">slot88</a></li>
-    <li><a href="https://dinkes.temanggungkab.go.id/assets/frontend/js/">slot gacor</a></li>
-    <li><a href="https://green.ui.ac.id/wp-content/themes/slot-garansi-kekalahan/">slot garansi kekalahan</a></li>
-    <li><a href="http://pasca.fe.unissula.ac.id/wp-includes/slot-pulsa-tanpa-potongan/">slot777</a></li>
-    <li><a href="http://pasca.fe.unissula.ac.id/wp-includes/slot-pulsa-tanpa-potongan/">slot pulsa</a></li>
     <li><a href="https://dpmptsp.pasamanbaratkab.go.id/vendor/toto-macau/">toto macau</a></li>
-    <li><a href="http://simpatda.mubakab.go.id/public/js/slot-gacor/">slot gacor</a></li>
-    <li><a href="https://koni.pasamanbaratkab.go.id/database/slot-demo/">slot demo pg soft</a></li>
 </div>  
  
